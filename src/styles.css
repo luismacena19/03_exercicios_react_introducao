@@ -1,0 +1,14 @@
+.medicos{
+    border: 1px solid #CBC1DC;
+    border-radius: 12px;
+    background-color: #E4DDED;
+    padding: 12px;
+    text-align: center;
+    width: auto;
+    right: auto;
+    padding-inline: auto;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: inline-block;
+    
+    }
